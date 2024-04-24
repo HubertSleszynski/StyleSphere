@@ -1,8 +1,25 @@
-# React + Vite
+# StyleSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web application serves as a minimalist showcase of my proficiency in fetching data from the FakeStoreAPI and implementing it into a functional tool. The UI design prioritizes simplicity and usability, providing users with an intuitive interface for seamlessly interacting with the fetched data.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+LIVE: [StyleSphere](https://hrs-style-sphere.netlify.app/)
+
+## Screenshot
+
+<img src="src/img/hrs-style-sphere.netlify.app_.png" width="600">
+
+## Tech Stack
+
+Yarn Vite React Tailwind FakeStoreAPI
+
+## Author
+
+### Hubert Śleszyński
+
+Portfolio: https://hrs-dev.netlify.app/
+
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+
+Github: https://github.com/HubertSleszynski
